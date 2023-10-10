@@ -1,0 +1,16 @@
+.main {
+    display: flex;
+    justify-content: center;
+}
+.from-main {
+    margin: auto 0 !important;
+    margin-left: 700px !important;
+}
+
+.main img {
+    margin: auto 0;
+    margin-left: 40px;
+}
+.main span span {
+    cursor: pointer;
+}
